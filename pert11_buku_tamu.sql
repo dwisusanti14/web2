@@ -45,7 +45,7 @@ INSERT INTO `tamu` (`ID`, `Nama`, `Email`, `Alamat`, `Kota`, `Pesan`) VALUES
 (15, 'Siti Aisyah', 'aisyah@gmail.com', 'Budut', 'Jakarta Pusat', 'Nikah Yuk!'),
 (29, 'Asri Sawitri', 'asrii@gmail.com', 'Pamulang', 'Tangerang Selatan', 'Lulus Yuk!'),
 (31, 'Nurfariz', 'nur@gmail.com', 'Pancoran', 'Jakarta Selatan', 'Hallo Semua!'),
-(95, 'Nugraha', 'bad@gmail.com', 'Pasar Minggu', 'Jakarta Selatan', 'Spadaa!');
+(1, 'Susan', 'susan@gmail.com', 'Jl.gang senggol', 'Jakarta Barat', 'Apa kabar!');
 
 --
 -- Indexes for dumped tables
